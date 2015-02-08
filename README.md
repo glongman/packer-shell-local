@@ -11,7 +11,7 @@ This project is a breakout of this pull request: https://github.com/mitchellh/pa
 All credit for this goes to the original author of the pull request, Aaron Walker (https://github.com/aaronwalker)
 
 I got impatient waiting for pull request to be accepted and broke it out here.
-Eventually it will be accepted and shell-local will come bundled with Packer and there will be no need to use this project.
+__Eventually it will be accepted and shell-local will come bundled with Packer and there will be no need to use this project.__
 
 #### Packer version the plugin was tested is 0.7.5
 
